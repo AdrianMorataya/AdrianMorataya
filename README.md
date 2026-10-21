@@ -1,16 +1,16 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:09090F,50:512BD4,100:9333EA&height=200&section=header&text=Adrian%20Morataya&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Adrian Morataya banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:09090F,50:374151,100:64748B&height=200&section=header&text=Adrian%20Morataya&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Adrian Morataya banner"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Junior+Software+Developer;Full+Stack+Developer;Building+AI-Powered+Applications;Computer+Science+Student" alt="Animated developer introduction"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=Junior+Software+Developer;Full+Stack+Developer;Building+AI-Powered+Applications;Computer+Science+Student" alt="Animated developer introduction"/>
   </a>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Full%20Stack-7C3AED?style=for-the-badge" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-512BD4?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-475569?style=for-the-badge" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-334155?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
   <img src="https://img.shields.io/badge/Guatemala-181717?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Guatemala"/>
 
   <br/><br/>
@@ -50,11 +50,11 @@ Junior Software Developer and Computer Science & Systems Engineering student at 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-512BD4?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square" alt="JWT"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-475569?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-64748B?style=flat-square" alt="JWT"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Ollama-181717?style=flat-square" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/Cloudinary-34495E?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 </p>
 
 ---
@@ -107,8 +107,8 @@ REST API integrating locally hosted AI models for text generation and image inte
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdrianMorataya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMorataya&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdrianMorataya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMorataya&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=C9D1D9" alt="Most used programming languages"/>
 </div>
 
 ## 🐍 Contribution Journey
@@ -125,7 +125,7 @@ REST API integrating locally hosted AI models for text generation and image inte
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:9333EA,50:512BD4,100:09090F&height=120&section=footer" width="100%" alt="Purple wave footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:64748B,50:374151,100:09090F&height=120&section=footer" width="100%" alt="Graphite wave footer"/>
 
   <br/>
 
